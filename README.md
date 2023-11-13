@@ -1,2 +1,2 @@
-# Discord-bot
-discord bot for a random coffee
+# DE-Discord
+Chatbot API for choosing coffee
